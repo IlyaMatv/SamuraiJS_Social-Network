@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/SamuraiJS_Social-Network/static/css/main.040ff7b8.chunk.css",
+    "main.js": "/SamuraiJS_Social-Network/static/js/main.d2457f9e.chunk.js",
+    "main.js.map": "/SamuraiJS_Social-Network/static/js/main.d2457f9e.chunk.js.map",
+    "runtime-main.js": "/SamuraiJS_Social-Network/static/js/runtime-main.acc49500.js",
+    "runtime-main.js.map": "/SamuraiJS_Social-Network/static/js/runtime-main.acc49500.js.map",
+    "static/js/2.60cb3384.chunk.js": "/SamuraiJS_Social-Network/static/js/2.60cb3384.chunk.js",
+    "static/js/2.60cb3384.chunk.js.map": "/SamuraiJS_Social-Network/static/js/2.60cb3384.chunk.js.map",
+    "static/css/3.8b98d8e7.chunk.css": "/SamuraiJS_Social-Network/static/css/3.8b98d8e7.chunk.css",
+    "static/js/3.d128b30e.chunk.js": "/SamuraiJS_Social-Network/static/js/3.d128b30e.chunk.js",
+    "static/js/3.d128b30e.chunk.js.map": "/SamuraiJS_Social-Network/static/js/3.d128b30e.chunk.js.map",
+    "static/css/4.7eeedfb7.chunk.css": "/SamuraiJS_Social-Network/static/css/4.7eeedfb7.chunk.css",
+    "static/js/4.5ddf5bbb.chunk.js": "/SamuraiJS_Social-Network/static/js/4.5ddf5bbb.chunk.js",
+    "static/js/4.5ddf5bbb.chunk.js.map": "/SamuraiJS_Social-Network/static/js/4.5ddf5bbb.chunk.js.map",
+    "index.html": "/SamuraiJS_Social-Network/index.html",
+    "precache-manifest.af691a2571e283fdcec2cd3025080f40.js": "/SamuraiJS_Social-Network/precache-manifest.af691a2571e283fdcec2cd3025080f40.js",
+    "service-worker.js": "/SamuraiJS_Social-Network/service-worker.js",
+    "static/css/3.8b98d8e7.chunk.css.map": "/SamuraiJS_Social-Network/static/css/3.8b98d8e7.chunk.css.map",
+    "static/css/4.7eeedfb7.chunk.css.map": "/SamuraiJS_Social-Network/static/css/4.7eeedfb7.chunk.css.map",
+    "static/css/main.040ff7b8.chunk.css.map": "/SamuraiJS_Social-Network/static/css/main.040ff7b8.chunk.css.map",
+    "static/js/2.60cb3384.chunk.js.LICENSE.txt": "/SamuraiJS_Social-Network/static/js/2.60cb3384.chunk.js.LICENSE.txt",
+    "static/js/4.5ddf5bbb.chunk.js.LICENSE.txt": "/SamuraiJS_Social-Network/static/js/4.5ddf5bbb.chunk.js.LICENSE.txt",
+    "static/media/loader.svg": "/SamuraiJS_Social-Network/static/media/loader.fa650ff8.svg",
+    "static/media/user.png": "/SamuraiJS_Social-Network/static/media/user.5f994a6e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acc49500.js",
+    "static/js/2.60cb3384.chunk.js",
+    "static/css/main.040ff7b8.chunk.css",
+    "static/js/main.d2457f9e.chunk.js"
+  ]
+}
